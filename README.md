@@ -1,1 +1,1 @@
-# Automator
+# Bug Bounty automation Tool.
